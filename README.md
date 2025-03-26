@@ -1,5 +1,5 @@
 <h2 align="left">Hii! I'm currently enrolled as a Business Informatics student. Aaand as well working on different projects at 42 Heilbronn. </h2>
-<h2> align="left"(づ ᴗ _ᴗ)づ♡ </h2>
+<h2 align="left">(づ ᴗ _ᴗ)づ♡ </h2>
 
 ###
 
