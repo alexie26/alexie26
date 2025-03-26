@@ -1,11 +1,8 @@
 
 <h1>(づ ᴗ _ᴗ)づ♡</h1>
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<h3 align="center">💻 Business Informatics Student | 🚀 42 Heilbronn Projects</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px;">
   <img src="https://i.pinimg.com/736x/29/4c/27/294c27b93108b5b8314bd59bc6256c3a.jpg" height="120" />
-  <div>
-    <h2>I'm currently enrolled as a Business Informatics student.</h2>
-    <h3>And working on different projects at 42 Heilbronn.</h3>
-  </div>
 </div>
 
 ---
