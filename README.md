@@ -1,9 +1,12 @@
-<h1 align="center">(づ ᴗ _ᴗ)づ♡</h1>
-<h3 align="center"> Business Informatics Student |  42 Heilbronn Projects</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/29/4c/27/294c27b93108b5b8314bd59bc6256c3a.jpg" height="150" />
-</p>
+<h1>(づ ᴗ _ᴗ)づ♡</h1>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://i.pinimg.com/736x/29/4c/27/294c27b93108b5b8314bd59bc6256c3a.jpg" height="120" />
+  <div>
+    <h2>I'm currently enrolled as a Business Informatics student.</h2>
+    <h3>And working on different projects at 42 Heilbronn.</h3>
+  </div>
+</div>
 
 ---
 
@@ -29,7 +32,7 @@
 
 ### 🌎 **Connect with Me**
 <p align="center">
-  <a href="www.linkedin.com/in/maria-alexandra-rosu-b1b1192bb">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </p>
