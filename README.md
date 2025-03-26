@@ -1,7 +1,7 @@
 
 <h1>(づ ᴗ _ᴗ)づ♡</h1>
 <h3 align="center">💻 Business Informatics Student | 🚀 42 Heilbronn Projects</h3>
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px;">
+<div style="display: center; align-items: center; justify-content: center; gap: 80px;">
   <img src="https://i.pinimg.com/736x/29/4c/27/294c27b93108b5b8314bd59bc6256c3a.jpg" height="120" />
 </div>
 
