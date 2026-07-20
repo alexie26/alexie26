@@ -1,5 +1,5 @@
 
-<h3 align="center"> Business Informatics Student | 42 Heilbronn Student</h3>
+<h3 align="center"> Business Informatics Student</h3>
 <p align="center">
   <img src="https://i.pinimg.com/736x/29/4c/27/294c27b93108b5b8314bd59bc6256c3a.jpg" height="150" />
 </p>
